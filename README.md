@@ -1,2 +1,1 @@
-# FR-SECURITY
 # MyApplication
